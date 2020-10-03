@@ -18,8 +18,12 @@ I tested it only in linux, help adding compatibility for other platforms is very
 
 ## Usage
 
-Run the script and then press some numbers in the keyboard. For example if you keep pressed 0, 4 and 7 it should make a major chord. But 0, 3 and 7 make a minor chord. It's because 0 is the root note here, the second semitone is 1 and so on.
+Run the script and then press some numbers in the keyboard.
 
 ```bash
 python3 harmonizer.py
 ```
+
+For example if you keep pressed 0, 4 and 7 it should make a major chord. But 0, 3 and 7 make a minor chord. It's because 0 is the root note here, the second semitone is 1 and so on.
+
+Press any letter key to exit, 'q' for example.
